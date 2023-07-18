@@ -31,3 +31,11 @@ Make sure to have these dependencies installed and properly configured in your p
 
 The component currently supports only basic SQL queries and is intended for demonstration and learning purposes. It does not connect to a database or execute queries on a server.
 Styling can be customized by modifying the sqlcss.css file or by adding your own CSS styles.
+
+#Page loding time
+I have used https://pagespeed.web.dev/ to track the details and i can also use the api to track the page loding time.
+First Contentful Paint -> 0.9 s
+Total Blocking Time -> 0 ms
+Largest Contentful Paint -> 1.0 s
+Speed Index -> 1.1 s
+Cumulative Layout Shift -> 0
