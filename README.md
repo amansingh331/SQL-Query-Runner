@@ -19,7 +19,7 @@ The results will be displayed in a table format below the query input area.
 Dependencies
 The component has the following dependencies:
 
-React: "^16.8.0" or higher
+React: "^18.0.27"
 Make sure to have these dependencies installed and properly configured in your project.
 
 Notes
